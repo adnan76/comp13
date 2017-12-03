@@ -1,0 +1,6 @@
+project(simple01)
+compiler(g++)
+linker(g++)
+source_exts("cpp")
+build_dir("build")
+
